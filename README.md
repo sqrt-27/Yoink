@@ -4,7 +4,7 @@
 this is an (internal) executor / exploit for mocktail that i'm doing for fun and to learn reverse engineering
 
 ## compilation
-just run `cmake b(uild)`
+just run `cmake build`
 
 ## issues
 `"hey this is not compiling on my machine!"`
