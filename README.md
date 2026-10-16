@@ -8,7 +8,7 @@ just run `cmake b(uild)`
 
 ## issues
 `"hey this is not compiling on my machine!"`
-this was made on fedora linux, so there might be some differences that I didnt know about, just fix it so it compiles.. dumbass.
+this was made on fedora linux, so there might be some differences that I didnt know about, just fix it yourself.. dumbass.
 
 ## credits
  - [imgui](https://github.com/ocornut/imgui) ( Interface, though do note that this project/repo goes against [**ocornut's stance on cheaters**](https://github.com/ocornut/imgui/issues/1586), which I agree with, script-kiddies really are a pain in the ass. Aren't they? )
