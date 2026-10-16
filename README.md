@@ -3,6 +3,8 @@
 ## what/why?
 this is an (internal) executor / exploit for mocktail that i'm doing for fun and to learn reverse engineering
 
+(and my hate for Roblox's shitty practices, in other words, pretty sick of drinking lemonade.)
+
 ## compilation
 just run `cmake build`
 
