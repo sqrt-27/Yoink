@@ -1,7 +1,7 @@
 # Yoink for Mocktail
 
 ## what/why?
-this is an (internal) executor for mocktail that i'm doing for fun and to learn reverse engineering
+this is an (internal) executor / exploit for mocktail that i'm doing for fun and to learn reverse engineering
 
 ## issues
 `"hey this is not compiling on my machine!"`
