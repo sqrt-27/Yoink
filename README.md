@@ -3,6 +3,9 @@
 ## what/why?
 this is an (internal) executor / exploit for mocktail that i'm doing for fun and to learn reverse engineering
 
+## compilation
+just run `cmake b(uild)`
+
 ## issues
 `"hey this is not compiling on my machine!"`
 this was made on fedora linux, so there might be some differences that I didnt know about, just fix it so it compiles.. dumbass.
