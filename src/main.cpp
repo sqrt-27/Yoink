@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cstring>
+#include "offsets.hpp"
+
 
 void log(char* txt) {
     printf("[ // yoink // ]: %s\n",txt);
