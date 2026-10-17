@@ -8,6 +8,9 @@ this is an (internal) executor / exploit for mocktail that i'm doing for fun and
 ## compilation
 just run `cmake build`
 
+## LLM Usage
+I try to minimize my usage of any LLM's whatsoever when writing this project, the only time i will allow myself to use said LLM's is when i need examples for how to do certain things. (vulkan hooking, etc.)
+
 ## issues
 `"hey this is not compiling on my machine!"`
 this was made on fedora linux, so there might be some differences that I didnt know about, just fix it yourself.. dumbass.
