@@ -14,6 +14,8 @@ add_library(Yoink SHARED
     src/renderer/hooks.cpp
 )
 
+add_subdirectory("vendor/LightningScanner")
+
 set_property(TARGET Yoink PROPERTY CXX_STANDARD 26)
-target_link_libraries(Yoink ${OPENSSL_LIBRARIES} dl)
+target_link_libraries(Yoink PRivate ${OPENSSL_LIBRARIES} dl LightningScanner)
 set_target_properties(Yoink PROPERTIES OUTPUT_NAME "yoink")

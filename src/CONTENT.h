@@ -8,8 +8,8 @@
 
     execution/
         luau/*              > luau
-        bytecode.(c/h)pp    > bytecode fixer upper
-        offsets.h           > offsets.. obviously?
+        bytecode.(c/h)pp    > bytecode fixer upper (if needed.)
+        patterns.h          > patterns for function offsets
         sunc.(c/h)pp        > sUNC definitions
         core.cpp            > execution core
         hooks.(c/h)pp       > another hooks file, but for execution now
