@@ -7,7 +7,7 @@
                               interface and Drawing/DrawingImmediate
 
     execution/
-        luau/*              > luau shit
+        luau/*              > luau
         bytecode.(c/h)pp    > bytecode fixer upper
         offsets.h           > offsets.. obviously?
         sunc.(c/h)pp        > sUNC definitions
