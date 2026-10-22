@@ -8,7 +8,7 @@
 #       ▒▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒ 
 
 
-LD_PRELOAD="$LD_PRELOAD:$(pwd)/out/build/gcc/yoink.so" mocktail
+LD_PRELOAD="$LD_PRELOAD:$(pwd)/build/yoink.so" mocktail
 # what did you expect, some convoluted injection method that uses ptrace?
 # because this is just a LD_PRELOAD, which works, so who gives a shit if it's basic?
 # also you can just add "& disown" at the end if you want to lmao
