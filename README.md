@@ -2,6 +2,8 @@
 
 # ![img](./src/assets/logo_64.png "Yoink for mocktail") Yoink for Mocktail 
 
+(note: this will be worked on when i have the motivation or smtn idk)
+
 ## what/why?
 this is an (internal) executor / exploit for mocktail that i'm doing for fun and to learn reverse engineering
 
