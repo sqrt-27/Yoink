@@ -13,11 +13,12 @@ this is an (internal) executor / exploit for mocktail that i'm doing for fun and
 `cmake build/ && cmake --build build/`
 
 ## LLM Usage
-I try to minimize my usage of any LLM's whatsoever when writing this project, the only time i will allow myself to use said LLM's is when i need examples for how to do certain things. (vulkan hooking, etc.)
+I try to minimize my usage of any LLM's whatsoever when writing this project, one of only times i will allow myself to use said LLM's is when i need examples for how to do certain things. (vulkan hooking, etc.)
+(the other being memory patterns because it's a pain in the ass searching for specific functions)
 
 ## issues
 `"hey this is not compiling on my machine!"`
-this was made on fedora linux, so there might be some differences that I didnt know about, just fix it yourself.. dumbass.
+this was made on fedora linux, so there might be some differences that I didn't know about, just fix it yourself.. dumbass.
 
 ## credits
  - [imgui](https://github.com/ocornut/imgui) ( Interface, though do note that this project/repo goes against [**ocornut's stance on cheaters**](https://github.com/ocornut/imgui/issues/1586), which I agree with, script-kiddies really are a pain in the ass. Aren't they? )
